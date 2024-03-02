@@ -25,8 +25,8 @@ table {
 }
 td {
   border: 1px solid rgb(81, 82, 82);
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
 }
 td.dead {
   background-color: transparent;
@@ -63,4 +63,5 @@ p {
 }
 a {
   margin-top: 2rem;
+  margin-bottom: 2rem;
 }
