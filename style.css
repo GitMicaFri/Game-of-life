@@ -12,6 +12,7 @@ body {
   align-items: center;
   padding: 20px;
   background-color: rgb(231, 246, 220);
+  overflow:hidden;
 }
 #gridContainer {
   margin-top: 2rem;
