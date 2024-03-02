@@ -44,6 +44,11 @@ h1 {
   font-weight: bold;
 }
 
+.scrollDown {
+  color: red;
+  font-weight: light;
+}
+
 .instructions {
   margin-top: 2rem;
   display: flex;
